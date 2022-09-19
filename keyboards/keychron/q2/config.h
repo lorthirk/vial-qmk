@@ -26,3 +26,6 @@
 
 /* Encoder Configuration*/
 #define ENCODER_DEFAULT_POS 0x3
+
+/* Enable RGB Matrix Solid Reactive Gradient Mode */
+#define RGB_MATRIX_SOLID_REACTIVE_GRADIENT_MODE
