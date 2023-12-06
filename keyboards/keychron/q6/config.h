@@ -29,3 +29,6 @@
 
 #define SNLED27351_CURRENT_TUNE \
     { 0xA4, 0xA4, 0x52, 0xA4, 0xA4, 0x52, 0xA4, 0xA4, 0x52, 0xA4, 0xA4, 0x52 }
+
+/* Enable RGB Matrix Solid Reactive Gradient Mode */
+#define RGB_MATRIX_SOLID_REACTIVE_GRADIENT_MODE
